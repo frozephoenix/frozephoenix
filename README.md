@@ -31,7 +31,7 @@ Here are a few projects I'm proud of. Feel free to explore them!
 <!--
 <p align="center"> <img src="https://streak-stats.demolab.com?user=frozephoenix&background=45%2CD8A48F%2CD6CE93&ring=995666&fire=995666&currStreakLabel=995666" alt="Github Streak" /> </p>
 -->
-<p align="center"> <img src="https://streak-stats.demolab.com?user=frozephoenix&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> 
+<p align="left"> <img src="https://streak-stats.demolab.com?user=frozephoenix&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> 
 <!--
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=frozephoenix&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
 -->
