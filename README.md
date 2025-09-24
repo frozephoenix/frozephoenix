@@ -25,11 +25,17 @@ Here are a few projects I'm proud of. Feel free to explore them!
     and some private repositories which I don't want to mention. Cuz it's private hehe (unfunny)
 
 ## Stats📈
-<img src="https://streak-stats.demolab.com?user=frozephoenixhoenix&background=45%2CD8A48F%2CD6CE93&ring=995666&fire=995666&currStreakLabel=995666" alt="Github Streak" />
-<p align="center"> <img src="https://streak-stats.demolab.com?user=USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
+<!--
+<p align="center"> <img src="https://streak-stats.demolab.com?user=frozephoenix&background=45%2CD8A48F%2CD6CE93&ring=995666&fire=995666&currStreakLabel=995666" alt="Github Streak" /> </p>
+-->
+<p align="center"> <img src="https://streak-stats.demolab.com?user=frozephoenix&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> 
+<!--
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=frozephoenix&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
+-->
 <br>
 <br>
 You can reach out to me on:
+<br>
 
     Portfolio: well, I don't have one yet :(
 
