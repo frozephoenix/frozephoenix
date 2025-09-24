@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f708118-a234-45ab-8be8-d872d7c5314c" /><img src="Hello.jpg" width="30px"> Hey there, I’m Varun
+<img src="Hello.jpg" width="30px"> Hey there, I’m Varun
 
 🌟 About Me
 
