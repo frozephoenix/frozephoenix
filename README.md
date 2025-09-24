@@ -1,4 +1,4 @@
-<img src="Hello.jpg" width="30px"> Hey there, I’m Varun
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f708118-a234-45ab-8be8-d872d7c5314c" /><img src="Hello.jpg" width="30px"> Hey there, I’m Varun
 
 🌟 About Me
 
@@ -24,7 +24,10 @@ MATLAB
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=frozephoenix&show_icons=true&theme=radical" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozephoenix&layout=compact&theme=radical" alt="Top Languages" height="165" /> </p>
 
 🔥 Streaks & Activity
+<!--
 <p align="center"> <img src="https://streak-stats.demolab.com?user=frozephoenix&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=frozephoenix&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
+-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=frozephoenixhoenix&background=45%2CD8A48F%2CD6CE93&ring=995666&fire=995666&currStreakLabel=995666" alt="GitHub Streak" /></a>
 
 🚀 Featured Projects
 🔗 Project One
