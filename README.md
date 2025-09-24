@@ -25,6 +25,9 @@ Here are a few projects I'm proud of. Feel free to explore them!
     and some private repositories which I don't want to mention. Cuz it's private hehe (unfunny)
 
 ## Stats📈
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=frozephoenix&show_icons=true&theme=radical" alt="GitHub Stats" height="165" /> &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozephoenix&layout=compact&theme=radical" alt="Top Languages" height="165" /> </p>
+
 <!--
 <p align="center"> <img src="https://streak-stats.demolab.com?user=frozephoenix&background=45%2CD8A48F%2CD6CE93&ring=995666&fire=995666&currStreakLabel=995666" alt="Github Streak" /> </p>
 -->
