@@ -1,37 +1,35 @@
-<img src="Hello.jpg" width="30px"> Hey there, I’m Varun
+# Hey there! I'm Varun
+I'm an electronics student
+<br>
+<br>
+<br>and I like cars
+<br>
+<br>
 
-🌟 About Me
+When I'm not coding, you can find me:
 
-💻 Passionate about Cars and Racing
+    📚 Learning something new
 
-🌱 Currently learning how to live
+    🎮 Playing some old games
 
-🧩 Love solving complex problems with simple solutions
+    🏎 Watching motorsports
 
-🎯 2025 Goal: Learn a language
+    🎹 Making digital sounds
 
-🛠️ Tech Stack
+## 🚀 Featured Repositories
 
-Languages & Frameworks
-C
-C++
+Here are a few projects I'm proud of. Feel free to explore them!
 
-Tools & Platforms
-MATLAB
+    riceofice: My desktop customization dotfiles
 
+    and some private repositories which I don't want to mention. Cuz it's private hehe (I'm not funny)
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=frozephoenix&show_icons=true&theme=radical" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozephoenix&layout=compact&theme=radical" alt="Top Languages" height="165" /> </p>
+You can reach out to me on:
 
-🔥 Streaks & Activity
-<p align="center"> <img src="https://streak-stats.demolab.com?user=frozephoenix&theme=radical&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=frozephoenix&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
+    LinkedIn: [Your LinkedIn Profile URL]
 
+    Twitter: [Your Twitter Profile URL]
 
-🚀 Featured Projects
-🔗 Project One
+    Portfolio: [Your Personal Website/Portfolio URL]
 
-<!--
-🌐 Let’s Connect
-<p align="center"> <a href="https://linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/YOURHANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white" /></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> </p>
-
--->
+    Email: [Your Email Address]
