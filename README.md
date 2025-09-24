@@ -16,7 +16,7 @@ When I'm not coding, you can find me:
 
     🎹 Making digital sounds
 
-## 🚀 Featured Repositories
+## Featured Repositories
 
 Here are a few projects I'm proud of. Feel free to explore them!
 
@@ -28,4 +28,4 @@ You can reach out to me on:
 
     Portfolio: well, I don't have one yet :(
 
-    Email: jkvarun@proton.me
+    📧 Email: jkvarun@proton.me
