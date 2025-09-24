@@ -1,6 +1,6 @@
 # Hi there,
 
-![Hi](./Hello.jpg =1920x1080)
+![Hi](./Hello.jpg =250x250)
  
 I'm currently an electronics student with a passion for software.
 
