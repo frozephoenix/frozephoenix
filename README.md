@@ -22,14 +22,10 @@ Here are a few projects I'm proud of. Feel free to explore them!
 
     riceofice: My desktop customization dotfiles
 
-    and some private repositories which I don't want to mention. Cuz it's private hehe (I'm not funny)
+    and some private repositories which I don't want to mention. Cuz it's private hehe (unfunny)
 
 You can reach out to me on:
 
-    LinkedIn: [Your LinkedIn Profile URL]
+    Portfolio: well, I don't have one yet :(
 
-    Twitter: [Your Twitter Profile URL]
-
-    Portfolio: [Your Personal Website/Portfolio URL]
-
-    Email: [Your Email Address]
+    Email: jkvarun@proton.me
