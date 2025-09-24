@@ -1,4 +1,6 @@
 # Hi there,
+
+![Hi](./Hello.jpg)
  
 I'm currently an electronics student with a passion for software.
 
